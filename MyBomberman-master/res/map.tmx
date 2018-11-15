@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="16" height="12" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="tiles" tilewidth="64" tileheight="64">
+  <image source="tiles.png"/>
+  <tile id="1">
+   <properties>
+    <property name="blocked" value="1"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="blocked" value="1"/>
+    <property name="breakable" value="1"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="blocked" value="1"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="blocked" value="1"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="blocked" value="1"/>
+   </properties>
+  </tile>
+  <tile id="6">
+   <properties>
+    <property name="blocked" value="1"/>
+   </properties>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="blocked" value="1"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Kachelebene 1" width="16" height="12">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC51SSQ4AIQiDwVn+/+LhIAlpKi6HBgWbUqSJyHeI29Ec2mEpZiicA5l/9XqOChHzwWe6rA/MB7/SrHpY9W/wBvV3faN/nC+bOatX/me9mHD/zOtoJ/D/Z3uQ78F/5Hx/X8cPwvdtQgADAAA=
+  </data>
+ </layer>
+</map>
