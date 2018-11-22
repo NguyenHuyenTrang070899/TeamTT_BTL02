@@ -2,6 +2,8 @@
 
 Trong bài tập lớn này, nhiệm vụ của bạn là viết một phiên bản Java mô phỏng lại trò chơi [Bomberman](https://www.youtube.com/watch?v=mKIOVwqgSXM) kinh điển của NES.
 
+<img src="res/demo.png" alt="drawing" width="400"/>
+
 Bạn có thể thể sử dụng mẫu mã nguồn dưới đây để làm starter project:
 1. [Starter project số 1](https://github.com/bqcuong/bomberman-starter/tree/starter-project-1) (đã cung cấp đầy đủ trừ những chức năng trong phần gói nhiệm vụ bắt buộc)
 
@@ -62,7 +64,7 @@ Xem comment ở starter project
 
    Cài đặt thêm các loại Enemy khác: +0.25đ cho mỗi loại enemy
 2. Cài đặt thuật toán AI cho Bomber (tự chơi) +1đ
-3. Xử lý hiệu ứng âm thanh (thêm music & uet.oop.bomberman.sound effects) +1đ
+3. Xử lý hiệu ứng âm thanh (thêm music & sound effects) +1đ
 4. Phát triển hệ thống server-client để nhiều người có thể cùng chơi qua mạng LAN hoặc Internet +1đ
 5. Những ý tưởng khác sẽ được đánh giá và cộng điểm theo mức tương ứng
 
